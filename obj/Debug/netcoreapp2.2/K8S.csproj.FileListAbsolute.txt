@@ -1,0 +1,14 @@
+/Users/andrea/GIT/k8s/K8S/bin/Debug/netcoreapp2.2/K8S.deps.json
+/Users/andrea/GIT/k8s/K8S/bin/Debug/netcoreapp2.2/K8S.runtimeconfig.json
+/Users/andrea/GIT/k8s/K8S/bin/Debug/netcoreapp2.2/K8S.runtimeconfig.dev.json
+/Users/andrea/GIT/k8s/K8S/bin/Debug/netcoreapp2.2/K8S.dll
+/Users/andrea/GIT/k8s/K8S/bin/Debug/netcoreapp2.2/K8S.pdb
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.csprojAssemblyReference.cache
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.csproj.CoreCompileInputs.cache
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.RazorAssemblyInfo.cache
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.RazorAssemblyInfo.cs
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.AssemblyInfoInputs.cache
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.AssemblyInfo.cs
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.RazorTargetAssemblyInfo.cache
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.dll
+/Users/andrea/GIT/k8s/K8S/obj/Debug/netcoreapp2.2/K8S.pdb
